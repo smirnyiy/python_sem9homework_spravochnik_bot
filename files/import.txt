@@ -1,0 +1,4 @@
+1;surname;Петров;name;Петр;patronymic;Петрович;email;123@mail.ru;telephone;+7-911-123-45-67
+2;surname;Сергеев;name;Сергей;patronymic;Сергеевич;email;456@mail.ru;telephone;+7-911-234-56-78
+3;surname;Иванов;name;Иван;patronymic;Иванович;email;789@mail.ru;telephone;+7-911-345-67-89
+4;surname;Алексеев;name;Алексей;patronymic;Алексеевич;email;012@mail.ru;telephone;+7-911-678-90-12
